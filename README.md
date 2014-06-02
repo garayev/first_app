@@ -1,0 +1,5 @@
+# Ruby on Rails Tutorial : first app
+
+This is first app for
+[*Ruby on Rails Tutorial*] (http://railstutorial.org/)
+	[Ruslan Garayev](http://garayev.com/).
